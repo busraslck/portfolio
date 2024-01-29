@@ -1,86 +1,81 @@
 ---
 name: Busra Selcuk
 avatar: /static/images/avatar.jpg
-occupation: Senior Data Analyst
+occupation: Data Enthusiast
 company: MindTech
 email: busraselcuk@gmail.com
-twitter: https://twitter.com/raphael_chelly
 linkedin: https://www.linkedin.com/in/busraselcuk/
 github: https://github.com/busraslck
 ---
 
-# Ben BUSRA
+#### Hello! Busra's speaking :)
 
-Graduated from a **Master in Management** at Excelia Business School, I am passionate about **digital and new technologies.** Creative, proactive, versatile and with a good understanding of digital and marketing, **I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
+Passioned, teamwork-oriented, and responsible data enthusiast with significant experience. Possessed a Bachelor of Statistics and professional certification in Data Analytics, Statistics, Python,R. I am passionate about **data and articial intelligence. I am confident in my ability to tackle new missions.** Organized and rigorous, I possess a range of key business and interpersonal skills that I have developed through my professional experiences.
 
 - [💼 Experience](#experience)
-- [🧑🏻‍💻 Side Project](#side-project)
 - [🎓 Education](#education)
 - [🤹🏼‍♂️ Skills](#skills)
 - [🏐 Interests](#interests)
 
 ## Experience
 
-### Marketing Project Manager @**[Octopia](https://octopia.com)**
+### DWH & BI Consultant @**[MindTech](https://www.mindtech.com.tr/)**
 
-`Oct 2021 - Today`
+`Oct 2023 - Present`
 
-Responsible for **the acquisition and marketing development of the Octopia Products offer** in order to develop the activity and e-commerce sales in France and internationally.
+Assisted in the development and execution of ETL processes to extract, transform, and load data from diverse sources into the data warehouse.
 
-### Marketing Project Manager @[Microsoft](https://microsoft.net)
+Conducted data profiling and analysis to identify trends, patterns, and anomalies for actionable insights.
+Collaborated with business stakeholders to understand data needs and deliver effective solutions.
 
-`Sept 2019 - Sept 2020`
+Implemented BI tools and platforms, such as Tableau, Power BI, or Qlik, to create intuitive and actionable dashboards and reports.
 
-Participation in the implementation of Microsoft France’s marketing plan for the Education audience (Primary/Secondary and Higher Education) in order to **develop the network of teachers and partner schools.**
+### Senior Data Analyst @[Group M](https://www.groupm.com/)
 
-### Digital Project Manager @[Havana Club International](https://havana-club.com)
+`Jan 2021 - Oct 2023`
 
-`Jan 2019 - Jul 2019`
+Working about data management, technology and modeling (such as market mix modeling) to address client issues regarding advertising, media, and new products.
 
-As part of the International Marketing team and under the responsibility of the Senior Brand Manager, I participate in the launch and follow-up of **international digital projects** for Havana Club International, a subsidiary of Pernod Ricard group.
+Analyzing data and creating dashboard with Tableau.
 
-### Digital Project Manager @[Pernod Ricard France](https://www.pernod-ricard.com/fr/nos-marches/france)
+Developing presentations and present analytics & insights to clients & agency teams.
 
-`Jul 2018 - Jan 2019`
+### Customer Success Specialist @[Rem People](https://www.rempeople.com/)
 
-Support to the Digital Manager on the deployment of the **digital strategy of the Havana Club brand on the French market.**
+`Aug 2019 - Dec 2020`
 
-## Side Project
+Managed relationship with customers such as Red Bull, Kellogg’s,Haribo, JBS Seara to maintain overall customer health and growth.
 
-### Cofounder & Project Manager @[Fabrilab](https://fabrilab.net)
+Created daily/monthly/quarterly reports according to customer's needs.
 
-`Sept 2017 - Today`
-
-Creation of a communication agency in the form of a micro-enterprise. Fabrilab supports self-employed and small businesses in their **digital transition.**
-
-- Main clients : TotalEnergies, Solis International, SCEBOG (1st agricultural cooperative of Guyana)...
+Performed regularly scheduled meetings with clients to ensure their goals are met
 
 ## Education
 
-### Master in Management @[Excelia BS](https://www.excelia-group.com)
+### Bachelor of Statistics @[MSFAU](https://msgsu.edu.tr/akademik/fen-edebiyat-fakultesi/bolumler/istatistik/)
 
-`Sept 2016 - Sept 2020`
+`Sept 2015 - Jul 2019`
 
-Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS accredited. Graduate of a master in management, specialising in Marketing & Brand Management.
+Member of the «Statistics Club»
 
 ## Skills
 
 ### Hard Skills:
 
 - 🇬🇧 English
-- 🇪🇸 Spanish
 - 🤹🏼‍♂️ Project Management
-- 🌐 WordPress
-- 💻 Digital Marketing
-- 🎨 Adobe CC
-- 🔍 SEO
-- 📊 Microsoft 365
-- 📨 E-CRM Management
-- 📱 Social Media Management
+- 🌐 PL/SQL
+- 💻 Microsoft Office
+- 🎨 Python
+- 🔍 Tableau
+- 📊 Power BI
+- 📨 Data Analysis
+- 📱 Data Modelling
 
 ### Soft Skills:
 
-- 🎨 Creative
+- 🎨 Insight Finder
+-     Research
 - 📚 Curious
 - 🤝🏼 Team Spirit
 
@@ -88,31 +83,13 @@ Member of the «Conférence des Grandes Ecoles», AMBA, AACSB, EQUIS and EPAS ac
 
 ### Sports:
 
-- 🏄🏽‍♂️ Bodyboarding & Surfing
-- 🏊🏼‍♂️ Swimming
-
-|                                                       |                                         |
-| ----------------------------------------------------- | --------------------------------------- |
-| ![Bodyboarding](/static/images/bodyboarding-raph.jpg) | ![Wave](/static/images/wave-france.jpg) |
+- 🏄🏽‍♂️ Reformer Pilates
 
 ### Others:
 
 - 🗺️ Discovery and Traveling
-- 📷 Photography
 - 🎶 Music
-- ♟️ Chess ➡️ [Chess.com](https://www.chess.com/member/raphythe)
 
 ### Humanitarian:
 
-- 🤝🏼 Volunteer teacher in Cambodia in 2017 for 3 months in a children’s centre **"Les Enfants de Klang Leu".** As a teacher, I taught French, English and IT. Practice hygiene rules and help with the daily life of the center.
-
-### Other Experiences:
-
-- **2021:** TikTok Business for Enterprise training
-- **2020:** Facebook Spark AR Tutorials
-- **2018:** Bike courier for Deliveroo and Uber Eats
-- **2018:** Ambassador [ASUS](https://www.asus.com/fr/) Vivobook S and ASUS ZenFone 5
-- **2017-2018:** Digital Project Manager of the Student Office of Excela Business School
-- **2017:** Hotel receptionist in Australia at the [Nomads Noosa Hotel](https://nomadsworld.com/australia/nomads-noosa/)
-- **2016-2017:** Bank teller at [La Poste Group](https://www.lapostegroupe.com/fr) (replacement during the holidays)
-- **2015:** Online advisor at [CIC](https://www.cic.fr/fr/index.html) (6-month fixed-term contract)
+- 🤝🏼 Volunteer in Education Volunteers Foundation of Türkiye.
